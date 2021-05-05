@@ -1,2 +1,2 @@
 # Projetos
-Esses São meus projetos Trybe
+Esses são meus projetos Trybe
